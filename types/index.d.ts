@@ -52,7 +52,7 @@ declare type SearchParamProps = {
   
   declare type HeaderProps = {
     children: React.ReactNode;
-    className?: string;
+    // className?: string;
   };
   
   declare type CollaboratorProps = {

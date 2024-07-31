@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^5.2.8",
+    "@clerk/themes": "^2.1.14",
     "@lexical/react": "^0.16.1",
     "@lexical/utils": "^0.16.1",
     "@liveblocks/react-lexical": "^2.4.0",
